@@ -1,5 +1,3 @@
-# CentralLimitTheorem
-
 A demonstration of the central limit theorem.
 
 
